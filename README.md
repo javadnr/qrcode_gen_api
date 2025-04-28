@@ -46,4 +46,4 @@ To Run
 
 ## Authors
 
-- [@javadnr](https://github.com/javanr)
+- [@javadnr](https://github.com/javadnr)
