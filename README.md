@@ -1,7 +1,7 @@
 
-# Tonnumber API
+# QRCODE API
 
-QRCODE generator API
+QRCODE generator API with FastAPI
 
 
 ## API Reference
